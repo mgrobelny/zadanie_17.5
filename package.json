@@ -1,0 +1,16 @@
+{
+  "name": "zadanie_17.5",
+  "version": "1.0.0",
+  "description": "Pośrednik w sklepie",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mgrobelny",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
